@@ -1,10 +1,14 @@
 # Write your MySQL query statement below
-/*select count(*) as num
-from requestaccepted r inner join requestaccepted a
-on r.requester_id = a.accepter_id  
-order by max(num) desc
-limit 1; */
--- count - max 
+/*select count(*) as num ( 
+select requester_id as id from RequestAccepted
+union all 
+select accepter_id  as id from RequestAccepted
+) as friends
+group by id
+order by num desc
+limit 1;
+*/
+
 -- using CTE
 with allfriends as (
     select requester_id as id from RequestAccepted 
