@@ -24,5 +24,6 @@ leetcode problems sync repo
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/mohit-dhote/etl-leet/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0607-sales-person](https://github.com/mohit-dhote/etl-leet/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/mohit-dhote/etl-leet/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/mohit-dhote/etl-leet/tree/main/0619-biggest-single-number/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mohit-dhote/etl-leet/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
