@@ -28,4 +28,5 @@ leetcode problems sync repo
 | [0619-biggest-single-number](https://github.com/mohit-dhote/etl-leet/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/mohit-dhote/etl-leet/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mohit-dhote/etl-leet/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/mohit-dhote/etl-leet/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
