@@ -30,4 +30,5 @@ leetcode problems sync repo
 | [0627-swap-sex-of-employees](https://github.com/mohit-dhote/etl-leet/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/mohit-dhote/etl-leet/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/mohit-dhote/etl-leet/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/mohit-dhote/etl-leet/tree/main/1075-project-employees-i/) | Easy |
 <!---LeetCode Topics End-->
