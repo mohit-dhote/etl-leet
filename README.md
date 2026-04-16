@@ -40,4 +40,5 @@ leetcode problems sync repo
 | [1084-sales-analysis-iii](https://github.com/mohit-dhote/etl-leet/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/mohit-dhote/etl-leet/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/mohit-dhote/etl-leet/tree/main/1148-article-views-i/) | Easy |
+| [1158-market-analysis-i](https://github.com/mohit-dhote/etl-leet/tree/main/1158-market-analysis-i/) | Medium |
 <!---LeetCode Topics End-->
