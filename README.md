@@ -41,4 +41,5 @@ leetcode problems sync repo
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/mohit-dhote/etl-leet/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/mohit-dhote/etl-leet/tree/main/1148-article-views-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/mohit-dhote/etl-leet/tree/main/1158-market-analysis-i/) | Medium |
+| [1174-immediate-food-delivery-ii](https://github.com/mohit-dhote/etl-leet/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 <!---LeetCode Topics End-->
