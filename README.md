@@ -45,6 +45,7 @@ leetcode problems sync repo
 | [1174-immediate-food-delivery-ii](https://github.com/mohit-dhote/etl-leet/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/mohit-dhote/etl-leet/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/mohit-dhote/etl-leet/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/mohit-dhote/etl-leet/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/mohit-dhote/etl-leet/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/mohit-dhote/etl-leet/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/mohit-dhote/etl-leet/tree/main/1280-students-and-examinations/) | Easy |
