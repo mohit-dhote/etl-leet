@@ -54,4 +54,5 @@ leetcode problems sync repo
 | [1327-list-the-products-ordered-in-a-period](https://github.com/mohit-dhote/etl-leet/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/mohit-dhote/etl-leet/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mohit-dhote/etl-leet/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1393-capital-gainloss](https://github.com/mohit-dhote/etl-leet/tree/main/1393-capital-gainloss/) | Medium |
 <!---LeetCode Topics End-->
