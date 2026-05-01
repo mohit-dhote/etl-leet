@@ -55,4 +55,5 @@ leetcode problems sync repo
 | [1341-movie-rating](https://github.com/mohit-dhote/etl-leet/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mohit-dhote/etl-leet/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/mohit-dhote/etl-leet/tree/main/1393-capital-gainloss/) | Medium |
+| [1407-top-travellers](https://github.com/mohit-dhote/etl-leet/tree/main/1407-top-travellers/) | Easy |
 <!---LeetCode Topics End-->
