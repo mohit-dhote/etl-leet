@@ -58,4 +58,12 @@ leetcode problems sync repo
 | [1407-top-travellers](https://github.com/mohit-dhote/etl-leet/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/mohit-dhote/etl-leet/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1907-count-salary-categories](https://github.com/mohit-dhote/etl-leet/tree/main/1907-count-salary-categories/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/mohit-dhote/etl-leet/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/mohit-dhote/etl-leet/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
