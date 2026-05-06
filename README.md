@@ -65,6 +65,7 @@ leetcode problems sync repo
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mohit-dhote/etl-leet/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/mohit-dhote/etl-leet/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/mohit-dhote/etl-leet/tree/main/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,12 @@ leetcode problems sync repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mohit-dhote/etl-leet/tree/main/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/mohit-dhote/etl-leet/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/mohit-dhote/etl-leet/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
