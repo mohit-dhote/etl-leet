@@ -59,6 +59,7 @@ leetcode problems sync repo
 | [1393-capital-gainloss](https://github.com/mohit-dhote/etl-leet/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/mohit-dhote/etl-leet/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/mohit-dhote/etl-leet/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/mohit-dhote/etl-leet/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1907-count-salary-categories](https://github.com/mohit-dhote/etl-leet/tree/main/1907-count-salary-categories/) | Medium |
 ## Array
 | Problem Name | Difficulty |
