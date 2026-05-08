@@ -60,6 +60,7 @@ leetcode problems sync repo
 | [1407-top-travellers](https://github.com/mohit-dhote/etl-leet/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/mohit-dhote/etl-leet/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/mohit-dhote/etl-leet/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/mohit-dhote/etl-leet/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1907-count-salary-categories](https://github.com/mohit-dhote/etl-leet/tree/main/1907-count-salary-categories/) | Medium |
 ## Array
 | Problem Name | Difficulty |
