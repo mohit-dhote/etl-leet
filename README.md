@@ -94,4 +94,16 @@ leetcode problems sync repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mohit-dhote/etl-leet/tree/main/0015-3sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mohit-dhote/etl-leet/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mohit-dhote/etl-leet/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mohit-dhote/etl-leet/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
