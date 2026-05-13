@@ -65,6 +65,7 @@ leetcode problems sync repo
 | [1587-bank-account-summary-ii](https://github.com/mohit-dhote/etl-leet/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/mohit-dhote/etl-leet/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/mohit-dhote/etl-leet/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/mohit-dhote/etl-leet/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1907-count-salary-categories](https://github.com/mohit-dhote/etl-leet/tree/main/1907-count-salary-categories/) | Medium |
 ## Array
 | Problem Name | Difficulty |
