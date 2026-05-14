@@ -67,6 +67,7 @@ leetcode problems sync repo
 | [1661-average-time-of-process-per-machine](https://github.com/mohit-dhote/etl-leet/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/mohit-dhote/etl-leet/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/mohit-dhote/etl-leet/tree/main/1683-invalid-tweets/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/mohit-dhote/etl-leet/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1907-count-salary-categories](https://github.com/mohit-dhote/etl-leet/tree/main/1907-count-salary-categories/) | Medium |
 ## Array
 | Problem Name | Difficulty |
