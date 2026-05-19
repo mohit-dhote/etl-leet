@@ -73,6 +73,7 @@ leetcode problems sync repo
 | [1907-count-salary-categories](https://github.com/mohit-dhote/etl-leet/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/mohit-dhote/etl-leet/tree/main/1934-confirmation-rate/) | Medium |
 | [3374-first-letter-capitalization-ii](https://github.com/mohit-dhote/etl-leet/tree/main/3374-first-letter-capitalization-ii/) | Hard |
+| [3554-find-category-recommendation-pairs](https://github.com/mohit-dhote/etl-leet/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
