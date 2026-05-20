@@ -72,6 +72,7 @@ leetcode problems sync repo
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mohit-dhote/etl-leet/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/mohit-dhote/etl-leet/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/mohit-dhote/etl-leet/tree/main/1934-confirmation-rate/) | Medium |
+| [1965-employees-with-missing-information](https://github.com/mohit-dhote/etl-leet/tree/main/1965-employees-with-missing-information/) | Easy |
 | [3374-first-letter-capitalization-ii](https://github.com/mohit-dhote/etl-leet/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3554-find-category-recommendation-pairs](https://github.com/mohit-dhote/etl-leet/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 ## Array
