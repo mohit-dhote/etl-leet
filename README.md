@@ -79,6 +79,7 @@ leetcode problems sync repo
 | [1934-confirmation-rate](https://github.com/mohit-dhote/etl-leet/tree/main/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/mohit-dhote/etl-leet/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/mohit-dhote/etl-leet/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mohit-dhote/etl-leet/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3374-first-letter-capitalization-ii](https://github.com/mohit-dhote/etl-leet/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3421-find-students-who-improved](https://github.com/mohit-dhote/etl-leet/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/mohit-dhote/etl-leet/tree/main/3436-find-valid-emails/) | Easy |
