@@ -85,6 +85,7 @@ leetcode problems sync repo
 | [3421-find-students-who-improved](https://github.com/mohit-dhote/etl-leet/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/mohit-dhote/etl-leet/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/mohit-dhote/etl-leet/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/mohit-dhote/etl-leet/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3554-find-category-recommendation-pairs](https://github.com/mohit-dhote/etl-leet/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 | [3570-find-books-with-no-available-copies](https://github.com/mohit-dhote/etl-leet/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Array
