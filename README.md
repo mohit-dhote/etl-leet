@@ -84,6 +84,7 @@ leetcode problems sync repo
 | [3374-first-letter-capitalization-ii](https://github.com/mohit-dhote/etl-leet/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3421-find-students-who-improved](https://github.com/mohit-dhote/etl-leet/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/mohit-dhote/etl-leet/tree/main/3436-find-valid-emails/) | Easy |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/mohit-dhote/etl-leet/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3554-find-category-recommendation-pairs](https://github.com/mohit-dhote/etl-leet/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 | [3570-find-books-with-no-available-copies](https://github.com/mohit-dhote/etl-leet/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Array
