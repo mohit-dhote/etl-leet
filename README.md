@@ -87,6 +87,7 @@ leetcode problems sync repo
 | [3465-find-products-with-valid-serial-numbers](https://github.com/mohit-dhote/etl-leet/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/mohit-dhote/etl-leet/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3482-analyze-organization-hierarchy](https://github.com/mohit-dhote/etl-leet/tree/main/3482-analyze-organization-hierarchy/) | Hard |
+| [3497-analyze-subscription-conversion](https://github.com/mohit-dhote/etl-leet/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3554-find-category-recommendation-pairs](https://github.com/mohit-dhote/etl-leet/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 | [3570-find-books-with-no-available-copies](https://github.com/mohit-dhote/etl-leet/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Array
